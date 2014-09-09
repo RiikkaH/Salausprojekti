@@ -8,7 +8,7 @@ package salausprojekti;
 
 /**
  *
- * @author JuhoRim
+ * @author JRiikkaH
  */
 public class Salausprojekti {
 
@@ -17,6 +17,7 @@ public class Salausprojekti {
      */
     public static void main(String[] args) {
         // TODO code application logic here
+        
     }
     
 }
